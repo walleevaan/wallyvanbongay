@@ -1,4 +1,4 @@
-# Hi there, I'm [Wally Van B.] 👋
+# Hi there, I'm Wally Van B. 👋
 
 ### Operations | Bookkeeping & Payroll | Systems & Technical Administration
 
