@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Wally Van B.] 👋
 
 ### Operations | Bookkeeping & Payroll | Systems & Technical Administration
 
@@ -40,5 +40,5 @@ I specialize in high-level systems oversight, administrative operations, and aut
 ## 📫 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/your-profile](#)
-* **Email:** `your.email@example.com`
+* **Email:** `contact.wvan@gmail.com`
 * **Portfolio / Work Matrix:** [Link to Portfolio or Sheets Matrix](#)
